@@ -1,0 +1,44 @@
+body {
+	box-sizing: border-box;
+	margin-left: 10px;
+}
+
+div {
+	text-align: center;
+	border: 2px blue solid;
+	text-align: left;
+
+}
+
+form {
+	padding: 20px;
+
+}
+
+input {
+	display: block;
+	width: 50%;
+	line-height: 20px;
+	padding: 10px;
+	margin-bottom: 5px;
+}
+
+button {
+	width: 50%;
+	height: 20px;
+	float: left;
+
+}
+
+img {
+	padding: 20px;
+	width: 100px;
+}
+
+ul {
+	padding: 0;
+}
+
+p {
+	padding: 10px;
+}
